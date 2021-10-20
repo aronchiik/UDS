@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="knca_applet">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/main/webapp/applet/knca_applet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

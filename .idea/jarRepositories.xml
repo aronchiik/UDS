@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="localRepo" />
+      <option name="name" value="localRepo" />
+      <option name="url" value="file://src.idea/libraries/xmldsig" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="kalkan" />
+      <option name="name" value="kalkan" />
+      <option name="url" value="C:\Users\user\.jdks\НУЦ\Java\libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="localrep" />
+      <option name="name" value="kalkan" />
+      <option name="url" value="C:\Users\user\.jdks\НУЦ\Java\libs\xmldsig\xmlsec-1.5.8.jar" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+  </component>
+</project>

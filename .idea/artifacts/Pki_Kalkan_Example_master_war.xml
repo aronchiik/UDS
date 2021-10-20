@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Pki-Kalkan-Example-master:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Pki-Kalkan-Example-master</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="kalkan-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Pki-Kalkan-Example-master:war exploded" />
+    </root>
+  </artifact>
+</component>
